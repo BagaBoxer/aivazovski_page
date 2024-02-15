@@ -12,6 +12,7 @@ body {
     background-color: var(--bg-main);
 }
 
+
 ul {
     list-style: none;
     margin: 0;
@@ -23,7 +24,9 @@ a {
     color: unset;
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
     margin: 0;
 }
 
